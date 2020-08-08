@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Acerca de nosotros"
 permalink: /about/
+---
 
 ## Acerca de nosotros
 
