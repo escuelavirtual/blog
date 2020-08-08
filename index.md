@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <section>
   {% for post in site.posts %}
     <div>
-      <h3><a href="blog{{ post.permalink }}">{{ post.title }}</a></h3>
+      <h3><a href="/{{ post.permalink }}">{{ post.title }}</a></h3>
       <p>{{ post.description }}</p>
     </div>
   {% endfor %}
