@@ -1,5 +1,1 @@
-collections:
-  posts:
-    output          : true
-  
 theme: jekyll-theme-architect
